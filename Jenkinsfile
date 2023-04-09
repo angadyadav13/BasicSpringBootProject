@@ -4,7 +4,7 @@ pipeline {
         skipStagesAfterUnstable()
     }
     tools {
-    maven 'M3'
+    maven 'EngineeringCorner_Maven'
   }
     stages {
         stage('Build') {
