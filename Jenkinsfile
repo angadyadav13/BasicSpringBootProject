@@ -31,3 +31,4 @@ pipeline {
         setBuildStatus("Build failed", "FAILURE");
     }
 }
+
